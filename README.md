@@ -1,5 +1,5 @@
 ### Hi there 👋
-i am very bad a programming and i love polar bears.
+i am not very good at programming but i love polar bears.
 <!--
 **ChristmasBear/ChristmasBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
